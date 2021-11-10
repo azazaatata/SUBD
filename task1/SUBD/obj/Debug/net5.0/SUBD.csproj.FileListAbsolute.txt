@@ -1,0 +1,16 @@
+K:\gitrepos\SUBD\task1\SUBD\bin\Debug\net5.0\SUBD.exe
+K:\gitrepos\SUBD\task1\SUBD\bin\Debug\net5.0\SUBD.deps.json
+K:\gitrepos\SUBD\task1\SUBD\bin\Debug\net5.0\SUBD.runtimeconfig.json
+K:\gitrepos\SUBD\task1\SUBD\bin\Debug\net5.0\SUBD.runtimeconfig.dev.json
+K:\gitrepos\SUBD\task1\SUBD\bin\Debug\net5.0\SUBD.dll
+K:\gitrepos\SUBD\task1\SUBD\bin\Debug\net5.0\ref\SUBD.dll
+K:\gitrepos\SUBD\task1\SUBD\bin\Debug\net5.0\SUBD.pdb
+K:\gitrepos\SUBD\task1\SUBD\obj\Debug\net5.0\SUBD.csproj.AssemblyReference.cache
+K:\gitrepos\SUBD\task1\SUBD\obj\Debug\net5.0\SUBD.GeneratedMSBuildEditorConfig.editorconfig
+K:\gitrepos\SUBD\task1\SUBD\obj\Debug\net5.0\SUBD.AssemblyInfoInputs.cache
+K:\gitrepos\SUBD\task1\SUBD\obj\Debug\net5.0\SUBD.AssemblyInfo.cs
+K:\gitrepos\SUBD\task1\SUBD\obj\Debug\net5.0\SUBD.csproj.CoreCompileInputs.cache
+K:\gitrepos\SUBD\task1\SUBD\obj\Debug\net5.0\SUBD.dll
+K:\gitrepos\SUBD\task1\SUBD\obj\Debug\net5.0\ref\SUBD.dll
+K:\gitrepos\SUBD\task1\SUBD\obj\Debug\net5.0\SUBD.pdb
+K:\gitrepos\SUBD\task1\SUBD\obj\Debug\net5.0\SUBD.genruntimeconfig.cache
