@@ -134,8 +134,8 @@ namespace SUBD
 
 		static void Main(string[] args)
 		{
-			Dialog();
-			//Пока не работает подсчет, но я починю
+			int[] k = new int[5];
+			Console.WriteLine(k.Length);
 		}
 	}
 }
