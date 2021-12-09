@@ -134,7 +134,7 @@ namespace SUBD
 
 		static void Main(string[] args)
 		{
-			int[] k = new int[5];
+			int[,] k = new int[5,5];
 			Console.WriteLine(k.Length);
 		}
 	}
